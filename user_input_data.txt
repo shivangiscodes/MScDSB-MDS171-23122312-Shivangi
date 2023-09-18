@@ -1,0 +1,2 @@
+City/State	Energy Consumption (kWh)	Pollution Emissions (kg CO2eq)
+delhi				23214.0							123.0
