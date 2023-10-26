@@ -14,6 +14,6 @@ Email: shivangi.sharma@msds@christuniversity.in
 | 7    | lab_07   | Expense Tracker |https://github.com/shivangiscodes/MScDSB-MDS171-23122312-Shivangi/blob/a6c607c2d32f96374f71d8c0a58b407a5af0d934/Lab%2007/Lab07.ipynb |
 | 8    | lab_08   | Write a Python program to implement a Stack class that has the following functions:Push Item,Pop Item,Print the Items in the stack,Size of Stack,The top item in the stack,Check if the stack is empty | https://github.com/shivangiscodes/MScDSB-MDS171-23122312-Shivangi/blob/a6c607c2d32f96374f71d8c0a58b407a5af0d934/Lab%2008/Lab08.ipynb | 
 | 9    | lab_09   | create a petstore class where you have the details of pets available and their details |https://github.com/shivangiscodes/MScDSB-MDS171-23122312-Shivangi/blob/a6c607c2d32f96374f71d8c0a58b407a5af0d934/Lab%2009/petstoremain.py||https://github.com/shivangiscodes/MScDSB-MDS171-23122312-Shivangi/blob/a6c607c2d32f96374f71d8c0a58b407a5af0d934/Lab%2009/petStore.py | 
-| 10   | lab_10   | detecting vowels out of user inputs|| 
+| 10   | lab_10   | Create a Python Class for managing student details and marks. Define the class and implement the methods of the student class in a menu-driven program for different types of users|| 
 | 11   | CAC_1    | Sustainability Tracker|https://github.com/shivangiscodes/MScDSB-MDS171-23122312-Shivangi/blob/5784f0d9bbff88f0e5455495b07db10944de8e2f/CAC%201/CAC.ipynb | 
 | 12   | CAC_2    | Analysis on E-Commerce |https://github.com/shivangiscodes/MScDSB-MDS171-23122312-Shivangi/blob/5784f0d9bbff88f0e5455495b07db10944de8e2f/CAC%202/CAC2.ipynb | 
